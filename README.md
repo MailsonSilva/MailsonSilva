@@ -64,4 +64,4 @@
 - Desenvolvimento de back-end usando **Node.Js**
 - Desenvolvimento móvel usando **React Native**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=MailsonSilva&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=MailsonSilva&show_icons=true&theme=dracula)
