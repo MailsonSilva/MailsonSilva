@@ -64,4 +64,10 @@
 - Desenvolvimento de back-end usando **Node.Js**
 - Desenvolvimento móvel usando **React Native**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=MailsonSilva&show_icons=true&theme=dracula)
+
+<a href="https://github.com/MailsonSilva">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MailsonSilva&show_icons=true&theme=dracula" alt="MailsonSilva" /> 
+</a>
+<a href="https://github.com/MailsonSilva/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MailsonSilva&layout=compact&show_icons=true&theme=dracula" alt="MailsonSilva" />
+</a>
